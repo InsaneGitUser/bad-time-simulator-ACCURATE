@@ -2507,7 +2507,7 @@ function pc(h, r, p, t) {
                             k.go()
                         }) : setTimeout(function() {
                             k.go()
-                        }, 33);
+                        }, 16);
                         return
                     }
                 }
